@@ -1,0 +1,17 @@
+name = "cloudflare-temp-email"
+main = "src/worker.ts"
+compatibility_date = "2024-09-23"
+compatibility_flags = [ "nodejs_compat" ]
+
+[vars]
+PREFIX = ""
+DOMAINS = ["mydevin.live"]
+JWT_SECRET = "mydevin-secret-key-2026"
+ADMIN_PASSWORDS = ["Zorrop891216"]
+ENABLE_USER_CREATE_EMAIL = true
+ENABLE_USER_DELETE_EMAIL = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "mydevin-mail"
+database_id = "97190c49-af87-4253-9eaf-1f0f9a6ccbd3"
