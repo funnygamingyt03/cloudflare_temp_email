@@ -5,7 +5,7 @@ compatibility_flags = [ "nodejs_compat" ]
 
 [vars]
 PREFIX = ""
-DOMAINS = ["mydevin.live", "honghua.app"]
+DOMAINS = ["mydevin.live", "honghua.app","qingte.studio" ]
 JWT_SECRET = "mydevin-secret-key-2026"
 ADMIN_PASSWORDS = ["Zorrop891216"]
 ENABLE_USER_CREATE_EMAIL = true
