@@ -5,7 +5,7 @@ compatibility_flags = [ "nodejs_compat" ]
 
 [vars]
 PREFIX = ""
-DOMAINS = ["mydevin.live", "honghua.app","qingte.studio", "laodeng.dev","nianshao.works" ,"xiyang.games","qingtian.codes","zhiwu.engineer","449498.xyz","891020.site","888158.online"
+DOMAINS = ["mydevin.live", "honghua.app","qingte.studio", "laodeng.dev","nianshao.works" ,"xiyang.games","qingtian.codes","zhiwu.engineer","449498.xyz","891020.site","888158.online","66666.rest"
  ]
 JWT_SECRET = "mydevin-secret-key-2026"
 ADMIN_PASSWORDS = ["Zorrop891216"]
